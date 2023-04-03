@@ -11,7 +11,7 @@ module.exports = {
           },
         ],
         permanent: true,
-        destination: 'https://orgvn.top/:slug',
+        destination: 'https://wfpnews.com/:slug',
       },
     ];
   },
